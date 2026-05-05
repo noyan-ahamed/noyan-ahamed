@@ -93,7 +93,7 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 - Provider / Bloc  
 
 **Links**
-- 📂 GitHub: LINK  
+- 📂 GitHub:[ LINK  ](https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git)
 
 </details>
 
