@@ -1,11 +1,11 @@
 <!-- ===================== SEO / HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Noyan Ahamed</h1>
 <h3 align="center">Full Stack Developer | Spring Boot & Flutter Enthusiast | ERP System Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=noyan-ahamed&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/noyan-ahamed?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/noyan-ahamed?label=Stars&style=flat-square&color=yellow" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 
 **Links**
 - 🔗 Live: LINK  
-- 💻 GitHub: LINK  
+- 💻 GitHub: https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git
 
 </details>
 
@@ -102,15 +102,15 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noyan-ahamed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyan-ahamed&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyan-ahamed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noyan-ahamed&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -126,15 +126,15 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_PORTFOLIO">
+<a href="https://noyanahamed.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/noyan-ahamed/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:noyanahamed7000@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
