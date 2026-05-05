@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Noyon 👋
 
-<!--
-**noyan-ahamed/noyan-ahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on Spring Boot & Flutter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Building ERP & business management systems
+- 🌱 Learning scalable backend architecture
+- 💡 Interested in REST APIs, JWT Auth & clean UI
+- 📍 Based in Dhaka, Bangladesh
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- REST API
+
+### Frontend & Mobile
+- Flutter
+- Angular
+- TypeScript
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Jasper Reports
+
+---
+
+## 📌 Featured Projects
+
+### ERP System
+Business management system with HR, Sales & Inventory modules.
+
+### Mobile ERP App
+Flutter-based ERP mobile application with authentication & dashboard.
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: your-link
+- LinkedIn: your-link
+- Email: your-email
