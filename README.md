@@ -1,54 +1,76 @@
+<!-- ===================== SEO / HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">Full Stack Developer | Spring Boot & Flutter Enthusiast | ERP System Builder</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=yellow" />
+</p>
+
+---
+
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+---
+
+<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+Flutter+Developer;Building+Modern+ERP+Applications;REST+API+%7C+JWT+Authentication" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Spring+Boot+%7C+Flutter+Developer;Building+Scalable+ERP+Systems;REST+API+%7C+JWT+Authentication;Clean+Architecture+Enthusiast" />
 </p>
 
 ---
 
-## 👨‍💻 Short Intro
+## 👨‍💻 About Me
 
-> Passionate Full Stack Developer focused on building scalable backend systems and modern mobile applications.  
-> I enjoy creating real-world ERP solutions and learning new technologies to improve system design and performance.
+<p align="center">
+I am a passionate Full Stack Developer focused on building scalable backend systems and modern mobile applications.  
+I enjoy designing ERP solutions, APIs, and learning system design for real-world applications.
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,angular,ts,postgres,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,angular,ts,postgres,mysql,git,github,postman,docker" />
+</p>
+
+<p align="center">
+  
+![Backend](https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge)
+
 </p>
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🏢 ERP Management System
 <details>
-<summary>Click to view details</summary>
-
-<br>
+<summary>Click to expand</summary>
 
 **Features**
-- HR Management  
-- Sales Management  
-- Employee Module  
+- HR & Payroll Management  
+- Sales & Inventory Module  
+- Role-Based Access Control  
 - JWT Authentication  
-- Role-based Access  
+- Reporting System  
 
-**Technologies**
+**Tech Stack**
 - Spring Boot  
 - Angular  
 - PostgreSQL  
-- Jasper Reports  
 - Spring Security  
 
 **Links**
-- 🔗 Live Demo: LINK  
+- 🔗 Live: LINK  
 - 💻 GitHub: LINK  
 
 </details>
@@ -57,20 +79,18 @@
 
 ### 📱 Mobile ERP App
 <details>
-<summary>Click to view details</summary>
-
-<br>
+<summary>Click to expand</summary>
 
 **Features**
-- Dashboard  
-- Employee Management  
+- Employee Dashboard  
+- Attendance System  
+- API Integration  
 - Authentication  
-- REST API Integration  
 
-**Technologies**
+**Tech Stack**
 - Flutter  
-- Provider / Bloc  
 - Spring Boot API  
+- Provider / Bloc  
 
 **Links**
 - 📂 GitHub: LINK  
@@ -79,39 +99,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="YOUR_PORTFOLIO">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -119,13 +143,9 @@
 
 ## ⚡ Fun Facts
 
-- ☕ Coffee helps me debug faster  
-- 🚀 I enjoy building business-focused applications  
-- 📱 Passionate about mobile & backend development  
-- 🌱 Currently improving scalable system design skills  
+- ☕ Coffee improves my debugging speed  
+- 🚀 I love building real-world ERP systems  
+- 📱 Flutter is my favorite mobile framework  
+- 🧠 I enjoy learning scalable system design  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
