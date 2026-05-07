@@ -1,6 +1,10 @@
 <!-- ===================== SEO / HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Noyan Ahamed</h1>
-<h3 align="center">Full Stack Developer | Spring Boot & Flutter Enthusiast | ERP System Builder</h3>
+
+<!-- ===================== TYPING ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Spring+Boot+%7C+Flutter+Engineer;Building+Modern+ERP+Solutions;REST+API+%7C+JWT+Security;Clean+Code+%26+Scalable+Architecture" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noyan-ahamed&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -12,14 +16,7 @@
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
-</p>
-
----
-
-<!-- ===================== TYPING ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Spring+Boot+%7C+Flutter+Developer;Building+Scalable+ERP+Systems;REST+API+%7C+JWT+Authentication;Clean+Architecture+Enthusiast" />
+  <img src="./image/Github Banner (1).png" alt="Banner" width="100%" />
 </p>
 
 ---
@@ -36,15 +33,25 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,angular,ts,postgres,mysql,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,angular,ts,postgres,git,github,postman" />
 </p>
 
 <p align="center">
-  
+
 ![Backend](https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge)
 ![Mobile](https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge)
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=noyan-ahamed&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
@@ -56,21 +63,21 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 <details>
 <summary>Click to expand</summary>
 
-**Features**
+### ✨ Features
 - HR & Payroll Management  
 - Sales & Inventory Module  
 - Role-Based Access Control  
 - JWT Authentication  
 - Reporting System  
 
-**Tech Stack**
+### 🛠️ Tech Stack
 - Spring Boot  
 - Angular  
 - PostgreSQL  
 - Spring Security  
 
-**Links**
-- 🔗 Live: LINK  
+### 🔗 Links
+- 🌍 Live: LINK  
 - 💻 GitHub: https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git
 
 </details>
@@ -81,19 +88,19 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 <details>
 <summary>Click to expand</summary>
 
-**Features**
+### ✨ Features
 - Employee Dashboard  
 - Attendance System  
 - API Integration  
 - Authentication  
 
-**Tech Stack**
+### 🛠️ Tech Stack
 - Flutter  
 - Spring Boot API  
 - Provider / Bloc  
 
-**Links**
-- 📂 GitHub:[ LINK  ](https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git)
+### 🔗 Links
+- 💻 GitHub: https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git
 
 </details>
 
@@ -126,26 +133,43 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://noyanahamed.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://noyanahamed.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/noyan-ahamed/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/noyan-ahamed/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:noyanahamed7000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Zone
 
-- ☕ Coffee improves my debugging speed  
-- 🚀 I love building real-world ERP systems  
-- 📱 Flutter is my favorite mobile framework  
-- 🧠 I enjoy learning scalable system design  
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyan-ahamed&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noyan-ahamed/noyan-ahamed/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
