@@ -47,7 +47,7 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🏢 ERP Management System
 <details>
@@ -69,13 +69,15 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ### 🔗 Links
 
 <p align="left">
-  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
-    <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
-    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
+  <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 </details>
@@ -100,13 +102,15 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 ### 🔗 Links
 
 <p align="left">
-  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
-    <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
-    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
+  <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 </details>
