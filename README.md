@@ -47,16 +47,6 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=noyan-ahamed&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
 ## 📌 Featured Projects
 
 ### 🏢 ERP Management System
@@ -77,8 +67,16 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 - Spring Security  
 
 ### 🔗 Links
-- 🌍 Live: LINK  
-- 💻 GitHub: https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git
+
+<p align="left">
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
+    <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </details>
 
@@ -100,7 +98,16 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 - Provider / Bloc  
 
 ### 🔗 Links
-- 💻 GitHub: https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git
+
+<p align="left">
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
+    <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </details>
 
@@ -162,14 +169,6 @@ I enjoy designing ERP solutions, APIs, and learning system design for real-world
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyan-ahamed&theme=tokyonight" />
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noyan-ahamed/noyan-ahamed/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
