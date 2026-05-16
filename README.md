@@ -53,48 +53,55 @@ I am a passionate <b>Full Stack Developer</b> focused on building scalable backe
 <!-- ===================== PROJECTS ===================== -->
 ## 📌 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 ERP Management System</h3>
-      <details open>
-        <summary><b>Project Details</b></summary>
-        <br>
-        <strong>✨ Features:</strong>
-        <ul>
-          <li>HR & Payroll Management</li>
-          <li>Sales & Inventory Module</li>
-          <li>Role-Based Access Control (RBAC)</li>
-          <li>JWT Authentication & Reporting</li>
-        </ul>
-        <strong>🛠️ Tech:</strong> Spring Boot, Angular, PostgreSQL, Spring Security
-        <br><br>
-        <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
-          <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile ERP App</h3>
-      <details open>
-        <summary><b>Project Details</b></summary>
-        <br>
-        <strong>✨ Features:</strong>
-        <ul>
-          <li>Interactive Employee Dashboard</li>
-          <li>Real-time Attendance System</li>
-          <li>Seamless API Integration</li>
-          <li>Secure Session Authentication</li>
-        </ul>
-        <strong>🛠️ Tech:</strong> Flutter, Spring Boot API, Provider / Bloc
-        <br><br>
-        <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
-          <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </details>
-    </td>
-  </tr>
-</table>
+### 🏢 ERP Management System
+<details open>
+<summary><b>View Project Details</b></summary>
+<br>
+
+#### ✨ Features
+- HR & Payroll Management  
+- Sales & Inventory Module  
+- Role-Based Access Control (RBAC)  
+- JWT Authentication & Reporting System  
+
+#### 🛠️ Tech Stack
+- **Backend:** Spring Boot, Spring Security  
+- **Frontend:** Angular  
+- **Database:** PostgreSQL  
+
+#### 🔗 Links
+<p align="left">
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-System.git" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+</details>
+
+---
+
+### 📱 Mobile ERP App
+<details open>
+<summary><b>View Project Details</b></summary>
+<br>
+
+#### ✨ Features
+- Interactive Employee Dashboard  
+- Real-time Attendance System  
+- Seamless API Integration  
+- Secure Session Authentication  
+
+#### 🛠️ Tech Stack
+- **Frontend:** Flutter  
+- **State Management:** Provider / Bloc  
+- **Backend API:** Spring Boot  
+
+#### 🔗 Links
+<p align="left">
+  <a href="https://github.com/noyan-ahamed/Enterprise-Resource-Planning-App-Flutter.git" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+</details>
 
 ---
 
@@ -122,24 +129,26 @@ I am a passionate <b>Full Stack Developer</b> focused on building scalable backe
 
 ---
 
-<!-- ===================== CONNECT & FUN ===================== -->
-## 🌐 Connect With Me / ⚡ Fun Zone
+<!-- ===================== CONNECT WITH ME ===================== -->
+## 🌐 Connect With Me
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://noyanahamed.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-      <a href="https://www.linkedin.com/in/noyan-ahamed/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:noyanahamed7000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Jokes Card" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://noyanahamed.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/noyan-ahamed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:noyanahamed7000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================== FUN ZONE ===================== -->
+## ⚡ Fun Zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Jokes Card" />
+</p>
